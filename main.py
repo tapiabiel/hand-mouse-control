@@ -15,7 +15,7 @@ cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
 # Variables para control del ratón
 prev_index = None
 mouse_control = False
-sensitivity = 2.0  # Ajusta la velocidad del ratón
+sensitivity = 1.0  # Ajusta la velocidad del ratón
 click_cooldown = 0.3  # Segundos mínimos entre clics
 last_click_time = 0
 
@@ -97,3 +97,4 @@ with mp_hands.Hands(max_num_hands=1,
 
 cap.release()
 cv2.destroyAllWindows()
+
