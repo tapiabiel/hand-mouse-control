@@ -6,17 +6,32 @@ This project uses Python, OpenCV, and Mediapipe to recognize gestures like pinch
 ---
 
 ## Features
-- Move the mouse cursor by moving your hand.
-- Click by pinching your index finger and thumb.
-- Drag functionality with continuous pinch.
-- Customizable sensitivity and delay.
+- activate the control mode by joining the index finger and the thumb and move the hand to move the mouse
+- Click by closing your hand
 
 ---
 
 ## Requirements
-- Python 3.8+
+- Python 3.8+ (the code does not work with python 3.10+)
 - Webcam
 - Installed libraries:
   - opencv-python
   - mediapipe
   - pyautogui
+ 
+  ---
+
+## Recommendations
+- If you don't have python 3.10+ like me, I recommend to create a virtual environment and run the code there
+- 
+Make sure your webcam is connected and visible to Python.
+
+---
+
+## License
+- This project is licensed under the MIT license (for more details read the LICENSE file)
+
+---
+
+## Autor
+Created by **Biel Tapia Aguilera**
