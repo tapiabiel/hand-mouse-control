@@ -1,13 +1,14 @@
 # Hand Gesture Mouse Control
 
-Control your computer's mouse using hand gestures detected by a webcam.  
-This project uses Python, OpenCV, and Mediapipe to recognize gestures like pinch, drag, and move.
+Control your computer's mouse using hand gestures detected by a webcam and your keyboard talking.  
+This project uses Python, OpenCV, Mediapipe and SpeechRecognition to recognize gestures and what you say.
 
 ---
 
 ## Features
 - activate the control mode by joining the index finger and the thumb and move the hand to move the mouse
 - Click by closing your hand
+- talk to write instead of using the keyboard
 
 ---
 
@@ -18,7 +19,7 @@ This project uses Python, OpenCV, and Mediapipe to recognize gestures like pinch
   - opencv-python
   - mediapipe
   - pyautogui
- 
+  - SpeechRecognition
   ---
 
 ## Recommendations
