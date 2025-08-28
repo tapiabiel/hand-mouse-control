@@ -1,0 +1,6 @@
+- Python 3.8+ (the code does not work with python 3.10+)
+- Webcam
+- Installed libraries:
+  - opencv-python
+  - mediapipe
+  - pyautogui
