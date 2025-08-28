@@ -24,7 +24,7 @@ This project uses Python, OpenCV, and Mediapipe to recognize gestures like pinch
 ## Recommendations
 - If you don't have python 3.10+ like me, I recommend to create a virtual environment and run the code there
 - Make sure your webcam is connected and visible to Python.
-- You can change the sensibility of the mouse changing the value of the variable - in line 18 of the code (main.py)
+- You can change the sensitivy of the mouse changing the value of the variable sensitivy in line 18 of the main code (main.py)
 
 ---
 
