@@ -35,4 +35,4 @@ This project uses Python, OpenCV, Mediapipe and SpeechRecognition to recognize g
 ---
 
 ## Autor
-Created by **Biel Tapia Aguilera**
+Created by **Biel Tapia Aguilera** (username: **tapiabiel**)
